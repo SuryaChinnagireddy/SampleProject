@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles>
+
+    <Profile>
+        <Name>sampleproject</Name>
+        <URL>https://www.exercise1.com/values</URL>
+        <UserName>userName</UserName>
+        <Password>passwd</Password>
+    </Profile>
+
+</profiles>
